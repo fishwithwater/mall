@@ -8,7 +8,7 @@
 
 > 或者您可以 "follow" 一下，该项目将持续更新，不断完善功能。
 
-> 项目交流QQ群：[959351312](http://qm.qq.com/cgi-bin/qm/qr?k=V6xu5c12j9qhnMUNdDRzakNxRKzOxibQ)。
+> 项目交流QQ群：[553018255](http://qm.qq.com/cgi-bin/qm/qr?k=M5Edq2TiJL_ShcOEeYjwcmdGmq4zZrd_)、[959351312(满)](http://qm.qq.com/cgi-bin/qm/qr?k=V6xu5c12j9qhnMUNdDRzakNxRKzOxibQ)。
 
 > 如有问题或者好的建议可以在 Issues 中提。
 
@@ -144,9 +144,9 @@ PicPick | 屏幕取色工具 | https://picpick.app/zh/
 JDK | 1.8 | https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 Mysql | 5.7 | https://www.mysql.com/
 Redis | 3.2 | https://redis.io/download
-Elasticsearch | 2.4.6 | https://www.elastic.co/downloads
+Elasticsearch | 6.2.2 | https://www.elastic.co/downloads
 MongoDb | 3.2 | https://www.mongodb.com/download-center
-RabbitMq | 5.25 | http://www.rabbitmq.com/download.html
+RabbitMq | 3.4.1 | http://www.rabbitmq.com/download.html
 nginx | 1.10 | http://nginx.org/en/download.html
 
 ### 搭建步骤
@@ -187,9 +187,11 @@ nginx | 1.10 | http://nginx.org/en/download.html
 - [MyBatis从入门到精通](https://book.douban.com/subject/27074809/)
 - [深入浅出MySQL](https://book.douban.com/subject/25817684/)
 - [循序渐进Linux（第2版）](https://book.douban.com/subject/26758194/)
+- [Elasticsearch 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
 - [Elasticsearch 技术解析与实战](https://book.douban.com/subject/26967826/)
 - [MongoDB实战(第二版)](https://book.douban.com/subject/27061123/)
 - [Kubernetes权威指南](https://book.douban.com/subject/26902153/)
+- [Pro Git](https://git-scm.com/book/zh/v2)
 
 ## 许可证
 
